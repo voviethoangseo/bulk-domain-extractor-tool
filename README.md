@@ -25,3 +25,8 @@ No installation or server setup is required. To use the tool:
 1. Clone or download this repository to your local machine:
    ```bash
    git clone https://github.com/voviethoangseo/bulk-domain-extractor-tool.git
+2. Open either bulk-domain-extractor-tool.html or bulk-domain-extractor-tool-en.html in any modern web browser (such as Chrome, Firefox, Safari, or Edge).
+3. Paste your text or URL list into the Input Text box.
+4. Select your preferred options (e.g., Remove "www." and Remove duplicates).
+5. Click Extract Domains to process.
+6. Click Copy Results to copy the clean list of domains to your clipboard.   
